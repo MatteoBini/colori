@@ -1,0 +1,28 @@
+{
+  "name": "colori",
+  "version": "1.0.0",
+  "description": "Colori",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteobini/colori.git"
+  },
+  "keywords": [
+    "Colori",
+    "Bini",
+    "Zupu"
+  ],
+  "author": "BINI, M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matteobini/colori/issues"
+  },
+  "homepage": "https://github.com/matteobini/colori#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
